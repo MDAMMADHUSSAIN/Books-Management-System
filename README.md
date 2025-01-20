@@ -126,4 +126,9 @@ cd Books-Management-System
   npm start
   ```
   The frontend will be available at http://localhost:3000.
+
+
+###Disclaimer###
+
+This app is for learning and demonstration purposes only. Any book titles or author names are used as examples and do not represent real copyrighted works.
   
