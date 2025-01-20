@@ -1,6 +1,6 @@
 # Books Management System
 
-This is a simple **Books Management System** that allows users to perform CRUD operations (Create, Read, Update, Delete) on a list of books. The app is built using **React** for the frontend and **Express.js** with **MySQL** for the backend.
+This is a **Books Management System** that allows users to perform CRUD operations (Create, Read, Update, Delete) on a list of books. The app is built using **React** for the frontend and **Express.js** with **MySQL** for the backend.
 
 ## Features
 
