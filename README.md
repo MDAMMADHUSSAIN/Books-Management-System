@@ -20,11 +20,19 @@ This is a simple **Books Management System** that allows users to perform CRUD o
 
 Below are some screenshots of the application. You can find more in the **`Screenshots`** folder.
 
-**Initial page**
+**Initial Page**
 ![Welcome Page](Screenshots/1.%20Welcome%20Page.png)
+
+**Added A Book**
 ![Added a Book](Screenshots/2.%20Added%20a%20new%20Book.png)
+
+**Empty Field Error**
 ![Input Error](Screenshots/3.%20No%20empty%20fields%20allowed.png)
+
+**Data Stored**
 ![Data stored](Screenshots/5.%20Data%20Stored%20in%20Database.png)
+
+**Deleted 2 books**
 ![removed books](Screenshots/9.%20Books%20with%20id%202%20&%205%20removed%20from%20database.png)
 
 
