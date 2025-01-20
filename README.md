@@ -33,7 +33,8 @@ Below are some screenshots of the application. You can find more in the **`Scree
 ![Data stored](Screenshots/5.%20Data%20Stored%20in%20Database.png)
 
 **Deleted 2 books**
-![removed books](Screenshots/9.%20Books%20with%20id%202%20&%205%20removed%20from%20database.png)
+![removed books](Screenshots/8.%20Deleted%202%20books%20from%20book%20List.png)
+
 
 
 ## Prerequisites
