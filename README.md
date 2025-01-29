@@ -103,7 +103,7 @@ cd Books-Management-System
   4. Start the backend server:
      
   ```
-  npm start
+  node index.js
   ```
   The backend server will run on http://localhost:5000.
 
